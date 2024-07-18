@@ -1,16 +1,4 @@
 # Ethereum-fraudulent-detection
-Ethereum-fraudulent-detection
-│
-├── templates
-│   ├── index.html
-│   ├── result.html
-│   └── result_1.html
-│
-├── Base_code.ipynb
-├── app.py
-├── model.py
-├── amrutha_1.pkl
-└── run.py
 
 Overview
 
